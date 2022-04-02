@@ -50,7 +50,7 @@ begin
 end //
 delimiter ;
 call add_product ('Sp06', 'Pen', 4000, 1, 'new', 0);
--- loi 
+
 delimiter //
 drop procedure if exists update_product //
 create procedure update_product (pCode varchar(50), pName nvarchar(50), pPrice double, pAmount int, pDescription nvarchar(50), pStatus tinyint)
@@ -61,7 +61,7 @@ begin
 end //
 delimiter ;
 call update_product (1, 'Sp01', 'Laptop', 30000000, 1, 'new', 0);
--- loi
+
 delimiter //
 drop procedure if exists  delete_product //
 create procedure delete_product (pId int)

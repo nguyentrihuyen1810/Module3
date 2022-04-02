@@ -1,0 +1,70 @@
+h1 {
+    font-family: "Times New Roman";
+    font-size: 180%;
+}
+
+hr {
+    height: 1px;
+    color: black;
+}
+
+p {
+    font-family: Arial;
+    font-size: 100%;
+}
+
+/*in đậm, thụt đầu dòng*/
+p1 {
+    font-family: Arial;
+    font-size: 100%;
+    text-align: justify;
+    text-indent: 100px;
+    font-weight: 600;
+}
+
+p2 {
+    font-family: Arial;
+    font-size: 90%;
+}
+/*in đậm*/
+p3 {
+    font-family: Arial;
+    font-size: 100%;
+    font-weight: 600;
+}
+
+p4 {
+    color: dodgerblue;
+    font-family: Arial;
+    font-size: 100%;
+}
+
+p5 {
+    color:mediumblue;
+    font-family: Arial;
+    font-size: 100%;
+}
+/*Thụt đầu dòng*/
+p6 {
+    text-indent: 100px;
+    font-family: Arial;
+    font-size: 100%;
+}
+
+p7 {
+    color: dodgerblue;
+    font-family: Arial;
+    font-size: 65%;
+}
+
+p8 {
+    color: black;
+    font-family: Arial;
+    font-size: 70%;
+}
+
+p.big {
+    line-height: 25px;
+}
+
+

@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+    color: crimson;
+}
+
+hr {
+    height: 3px;
+    background: black;
+    border: 0;
+}
+
+ul {
+    list-style-type: circle;
+    font-size: 25px;
+    color: darkorchid;
+}
+
+p.big {
+    line-height: 100px;
+}
+
+p {
+    font-size: 16px;
+    font-family: Arial;
+    line-height: 20px;
+}
+
+table {
+    width: 79%;
+    border-collapse: collapse;
+    border: none;
+}
+
+tr, td, th {
+    border-collapse: collapse;
+}
+
+img {
+    height: 300px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.doc {
+    height: 550px;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.gif {
+    height: 310px;
+    width: 310px;
+}
+
+img.mucluc {
+    height: 300px;
+    width: 224px;
+}
