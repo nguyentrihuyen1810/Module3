@@ -1,0 +1,45 @@
+h2 {
+
+    font-family: "Times New Roman";
+    margin-block-start: 15px;
+    margin-block-end: 15px;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    font-weight: bold;
+}
+
+h5 {
+    font-family: "Times New Roman";
+    margin-block-start: 15px;
+    margin-block-end: 15px;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+p5 {
+    font-family: "Times New Roman";
+
+}
+
+.img {
+    margin-block-start: 15px;
+    margin-block-end: 15px;
+    margin-inline-start: 20px;
+    margin-inline-end: 20px;
+    height: 200px;
+    width: 300px;
+}
+
+.img2 {
+    float: left;
+}
+
+p1{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: "Times New Roman";
+}

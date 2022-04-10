@@ -1,0 +1,153 @@
+body {
+    font-family: Arial;
+}
+
+nav {
+        height: 50px;
+        padding: 0;
+        margin: 0;
+        background-color: dimgrey;
+        border: 1px solid white;
+        color: white;
+}
+
+/*nav ul{*/
+/*    list-style: none;*/
+/*    display:flex;*/
+/*    color: white;*/
+/*}*/
+
+/*nav ul li{*/
+/*    flex: 1;*/
+/*    display: inline-block;*/
+/*}*/
+
+/*nav ul li:last-child{*/
+/*    flex:5;*/
+/*    text-align: right;*/
+/*    padding-right: 10px ;*/
+/*}*/
+
+#menu {
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    background-color: dimgrey;
+    border: 1px solid white;
+    color: white;
+}
+
+#menu ul {
+    padding: 10px;
+    margin: 0;
+    display: flex;
+    list-style: none;
+}
+
+#menu > ul > li {
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    flex:1;
+    list-style: none;
+}
+
+#menu > ul > li:last-child {
+    flex: 5;
+    text-align: right;
+    padding-left: 850px;
+}
+
+#menu ul li a {
+    width: 100px;
+    height: 30px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    line-height: 30px;
+    background-color: dimgrey;
+    color: white;
+}
+
+#menu ul ul {
+    display: flex;
+    flex-direction: column;
+}
+
+#menu ul ul li a{
+    width: 100px;
+    text-align: left;
+    padding-left: 10px;
+    background-color: white;
+    color: dodgerblue;
+}
+
+#menu li a:hover{
+    background-color: black;
+}
+
+#menu ul ul{
+    position: absolute;
+    top: 30px;
+    left: 15px;
+    visibility: hidden;
+}
+
+#menu ul li:hover ul{
+    visibility: visible;
+    flex: 1;
+    display: inline-block;
+}
+
+#main {
+    background: lightgrey;
+    width: 15%;
+    height: 606px;
+    float: left;
+}
+
+#text {
+    background: white;
+    height: 601px;
+    width: 66%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+#text1 {
+    background: lightgrey;
+    height: 606px;
+    width: 16%;
+    float: left;
+    margin-left: 24px;
+}
+
+.p {
+    margin-bottom: 50px;
+}
+
+#footer {
+    background: dimgrey;
+    height: 50px;
+    width: 100%;
+    clear:both;
+}
+
+.p2 {
+    text-align: center;
+    color: white;
+    padding-top: 16px;
+}
+
+.boder {
+    border: solid grey 2px;
+    height: 40px;
+    width: 100px;
+    border-right: 50px;
+    border-radius: 3px;
+    margin: 0 auto;
+    padding-left: 60px;
+    padding-top: 20px;
+}

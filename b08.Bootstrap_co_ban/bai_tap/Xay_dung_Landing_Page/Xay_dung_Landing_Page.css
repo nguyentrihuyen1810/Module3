@@ -1,0 +1,65 @@
+.img {
+    padding-left: 50px;
+    padding-top: 0px;
+}
+
+.computers-toggle {
+    white-space: nowrap;
+}
+
+.computers-menu {
+    position: absolute;
+    top: 100%;
+    z-index: 1000;
+    display: none;
+    min-width: 10rem;
+    padding: 0.5rem 0;
+    margin: 0;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 0.25rem;
+}
+
+.computers{
+    position: relative;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.computermenu {
+    list-style: none;
+}
+
+.computermenu a {
+    text-decoration: none;
+}
+
+.head {
+    background-color: #0a58ca;
+    height: 28px;
+    width: 100%;
+}
+
+.textbody {
+    color: black;
+    font-size: 45px;
+    text-align: center;
+    font-weight: 100;
+}
+
+.textlink {
+    color:#0a58ca;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+}
