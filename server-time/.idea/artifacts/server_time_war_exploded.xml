@@ -11,13 +11,13 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="server-time" />
+          <element id="module-output" name="b09_Tong_quan_ung_dung_Web" />
         </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/server-time-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="server-time/web/Web" />
+      <element id="javaee-facet-resources" facet="b09_Tong_quan_ung_dung_Web/web/Web" />
     </root>
   </artifact>
 </component>
