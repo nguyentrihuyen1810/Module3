@@ -1,27 +1,34 @@
-DELIMITER //
+DELIMITER
+//
 
 CREATE PROCEDURE findAllCustomers()
 
 BEGIN
 
-  SELECT * FROM customers;
+SELECT *
+FROM customers;
 
-END //
+END
+//
 
 DELIMITER ;
 
 call findAllCustomers();
 
-DELIMITER //
+DELIMITER
+//
 DROP PROCEDURE IF EXISTS `findAllCustomers`//
 
 CREATE PROCEDURE findAllCustomers()
 
 BEGIN
 
-SELECT * FROM customers where customerNumber = 175;
+SELECT *
+FROM customers
+where customerNumber = 175;
 
-END //
+END
+//
 DELIMITER ;
 
 

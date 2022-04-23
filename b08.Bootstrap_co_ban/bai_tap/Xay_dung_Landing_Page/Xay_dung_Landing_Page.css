@@ -21,11 +21,11 @@
     list-style: none;
     background-color: #fff;
     background-clip: padding-box;
-    border: 1px solid rgba(0,0,0,.15);
+    border: 1px solid rgba(0, 0, 0, .15);
     border-radius: 0.25rem;
 }
 
-.computers{
+.computers {
     position: relative;
 }
 
@@ -63,7 +63,7 @@
 }
 
 .textlink {
-    color:#0a58ca;
+    color: #0a58ca;
     text-decoration: none;
     font-weight: 700;
     text-align: center;
@@ -106,7 +106,7 @@
     height: 400px;
     width: 23.5%;
     margin-left: 20px;
-    clear:both;
+    clear: both;
     float: left;
 }
 
@@ -193,7 +193,7 @@
     padding-top: 35px;
 }
 
-.card3 a{
+.card3 a {
     text-decoration: none;
 }
 
@@ -229,7 +229,7 @@
 
 .logo1 img {
     padding-top: 15px;
-    padding-left:80px;
+    padding-left: 80px;
 }
 
 .logo p {

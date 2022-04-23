@@ -1,15 +1,22 @@
-delimiter //
+delimiter
+//
 create procedure findAllCustomers()
 begin
-	select * from customers;
-end //
+select *
+from customers;
+end
+//
 delimiter ;
 
 call findAllCustomers();
 
-delimiter //
+delimiter
+//
 drop procedure if exists `findAllCustomers` //
 create procedure findAllCustomers()
 begin
-select * from customers where customerNumber = 175;
-end //
+select *
+from customers
+where customerNumber = 175;
+end
+//

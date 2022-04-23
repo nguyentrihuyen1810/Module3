@@ -26,6 +26,7 @@ p2 {
     font-family: Arial;
     font-size: 90%;
 }
+
 /*in đậm*/
 p3 {
     font-family: Arial;
@@ -40,10 +41,11 @@ p4 {
 }
 
 p5 {
-    color:mediumblue;
+    color: mediumblue;
     font-family: Arial;
     font-size: 100%;
 }
+
 /*Thụt đầu dòng*/
 p6 {
     text-indent: 100px;

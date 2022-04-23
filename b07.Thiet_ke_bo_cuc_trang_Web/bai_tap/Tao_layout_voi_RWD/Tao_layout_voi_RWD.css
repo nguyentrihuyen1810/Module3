@@ -3,12 +3,12 @@ body {
 }
 
 nav {
-        height: 50px;
-        padding: 0;
-        margin: 0;
-        background-color: dimgrey;
-        border: 1px solid white;
-        color: white;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    background-color: dimgrey;
+    border: 1px solid white;
+    color: white;
 }
 
 /*nav ul{*/
@@ -49,7 +49,7 @@ nav {
     float: left;
     margin: 0;
     padding: 0;
-    flex:1;
+    flex: 1;
     list-style: none;
 }
 
@@ -75,7 +75,7 @@ nav {
     flex-direction: column;
 }
 
-#menu ul ul li a{
+#menu ul ul li a {
     width: 100px;
     text-align: left;
     padding-left: 10px;
@@ -83,18 +83,18 @@ nav {
     color: dodgerblue;
 }
 
-#menu li a:hover{
+#menu li a:hover {
     background-color: black;
 }
 
-#menu ul ul{
+#menu ul ul {
     position: absolute;
     top: 30px;
     left: 15px;
     visibility: hidden;
 }
 
-#menu ul li:hover ul{
+#menu ul li:hover ul {
     visibility: visible;
     flex: 1;
     display: inline-block;
@@ -132,7 +132,7 @@ nav {
     background: dimgrey;
     height: 50px;
     width: 100%;
-    clear:both;
+    clear: both;
 }
 
 .p2 {
