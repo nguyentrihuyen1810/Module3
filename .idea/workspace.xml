@@ -1,168 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c790a65-522f-4669-84f0-d11ea884f887" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ServletDemo_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ServletDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/controller/StudentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/service/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/main/webapp/student/create.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/main/webapp/student/student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/Servlet1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/src/B09/bai_tap/DiscountServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/src/B09/thuc_hanh/ConverterServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/src/B09/thuc_hanh/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/src/B09/thuc_hanh/Servlet_time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/src/B09/thuc_hanh/TranslationServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/src/B10/JSP_va_JSTL/thuc_hanh/ConvertServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/src/B10/JSP_va_JSTL/thuc_hanh/DictionaryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/web/B09/ConverterServlet.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/web/B09/DiscountServlet.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/web/B09/LoginServlet.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/web/B09/TranslationServlet.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/web/B10.JSP_va_JSTL/thuc_hanh/Ung_dung_chuyen_doi_tien_te/converter.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/web/B10.JSP_va_JSTL/thuc_hanh/Ung_dung_chuyen_doi_tien_te/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/web/B10.JSP_va_JSTL/thuc_hanh/Ung_dung_tu_dien/dictionary.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet1/web/B10.JSP_va_JSTL/thuc_hanh/Ung_dung_tu_dien/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Module 3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudy/Quan_ly.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b01. CSDL_quan_he/bai_tap/Xay_dung_CSDL_quan_ly_sinh_vien.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b01. CSDL_quan_he/bai_tap/Xay_dung_CSDL_quan_ly_sinh_vien.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b01. CSDL_quan_he/thuc_hanh/Tao_bang_tren_MySQL_Workbrench.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b01. CSDL_quan_he/thuc_hanh/Tao_bang_tren_MySQL_Workbrench.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b02. Tao_bang_trong_CSDL/bai_tap/Chuyen_doi_ERD_sang_mo_hinh_quan_he.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b02. Tao_bang_trong_CSDL/bai_tap/Chuyen_doi_ERD_sang_mo_hinh_quan_he.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b02. Tao_bang_trong_CSDL/bai_tap/Xay_dung_CSDL_quan_ly_ban_hang.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b02. Tao_bang_trong_CSDL/bai_tap/Xay_dung_CSDL_quan_ly_ban_hang.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b02. Tao_bang_trong_CSDL/thuc_hanh/Tao_CSDL_quan_ly_sinh_vien.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b02. Tao_bang_trong_CSDL/thuc_hanh/Tao_CSDL_quan_ly_sinh_vien.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b02. Tao_bang_trong_CSDL/thuc_hanh/Tao_bang_trong_CSDL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b02. Tao_bang_trong_CSDL/thuc_hanh/Tao_bang_trong_CSDL.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b03. Thao_tac_voi_CSDL/bai_tap/Truy_van_voi_CSDL_quan_ly_ban_hang.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b03. Thao_tac_voi_CSDL/bai_tap/Truy_van_voi_CSDL_quan_ly_ban_hang.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b03. Thao_tac_voi_CSDL/bai_tap/Truy_van_voi_CSDL_quan_ly_sinh_vien.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b03. Thao_tac_voi_CSDL/bai_tap/Truy_van_voi_CSDL_quan_ly_sinh_vien.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b03. Thao_tac_voi_CSDL/thuc_hanh/Them_du_lieu_vao_CSDL_quan_ly_hoc_sinh.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b03. Thao_tac_voi_CSDL/thuc_hanh/Them_du_lieu_vao_CSDL_quan_ly_hoc_sinh.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b03. Thao_tac_voi_CSDL/thuc_hanh/Truy_van_du_lieu_voi_CSDL_quan_ly_sinh_vien.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b03. Thao_tac_voi_CSDL/thuc_hanh/Truy_van_du_lieu_voi_CSDL_quan_ly_sinh_vien.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b04. Cac_ham_thong_dung_trong_SQL/bai_tap/Luyen_tap_cac_ham_thong_dung_trong_SQL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b04. Cac_ham_thong_dung_trong_SQL/bai_tap/Luyen_tap_cac_ham_thong_dung_trong_SQL.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b04. Cac_ham_thong_dung_trong_SQL/thuc_hanh/Sư_dung_cac_ham_thong_dung_trong_SQL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b04. Cac_ham_thong_dung_trong_SQL/thuc_hanh/Sư_dung_cac_ham_thong_dung_trong_SQL.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b05. SQL_VIew, Index, Stored Procedure/bai_tap/View_Index_StoreProcedure.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b05. SQL_VIew, Index, Stored Procedure/bai_tap/View_Index_StoreProcedure.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b05. SQL_VIew, Index, Stored Procedure/thuc_hanh/Chi_muc_trong_MySQL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b05. SQL_VIew, Index, Stored Procedure/thuc_hanh/Chi_muc_trong_MySQL.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b05. SQL_VIew, Index, Stored Procedure/thuc_hanh/Store_Procedure.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b05. SQL_VIew, Index, Stored Procedure/thuc_hanh/Store_Procedure.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b05. SQL_VIew, Index, Stored Procedure/thuc_hanh/Truyen_tham_so_vao_Store_Procedure.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b05. SQL_VIew, Index, Stored Procedure/thuc_hanh/Truyen_tham_so_vao_Store_Procedure.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b05. SQL_VIew, Index, Stored Procedure/thuc_hanh/mysqlsampledatabase.sql" beforeDir="false" afterPath="$PROJECT_DIR$/b05. SQL_VIew, Index, Stored Procedure/thuc_hanh/mysqlsampledatabase.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Dinh_dang_van_ban_voi_CSS/Dinh_dang_van_ban_voi_CSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Dinh_dang_van_ban_voi_CSS/Dinh_dang_van_ban_voi_CSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Dinh_dang_van_ban_voi_CSS/Dinh_dang_van_ban_voi_CSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Dinh_dang_van_ban_voi_CSS/Dinh_dang_van_ban_voi_CSS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Nhung_CSS_vao_trang_HTML/Nhung_CSS_vao_trang_HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Nhung_CSS_vao_trang_HTML/Nhung_CSS_vao_trang_HTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Tao_trang_doc_truyen_ngan.html" beforeDir="false" afterPath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Tao_trang_doc_truyen_ngan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Truyen_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Truyen_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Truyen_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Truyen_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Truyen_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Truyen_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Truyen_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Truyen_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Truyen_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/bai_tap/Tao_trang_doc_truyen_ngan/Truyen_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/thuc_hanh/Su_dung_CSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/b06. CSS_Cascading_Style_Stylesheet/thuc_hanh/Su_dung_CSS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Phat_trien_trang_Web_xem_hoat_hinh_truc_tuyen/Phat_trien_trang_Web_xem_hoat_hinh_truc_tuyen.css" beforeDir="false" afterPath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Phat_trien_trang_Web_xem_hoat_hinh_truc_tuyen/Phat_trien_trang_Web_xem_hoat_hinh_truc_tuyen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Phat_trien_trang_Web_xem_hoat_hinh_truc_tuyen/Phat_trien_trang_Web_xem_hoat_hinh_truc_tuyen.html" beforeDir="false" afterPath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Phat_trien_trang_Web_xem_hoat_hinh_truc_tuyen/Phat_trien_trang_Web_xem_hoat_hinh_truc_tuyen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_giao_dien_gian_luoc_cua_trang_chu_Facebook/Tao_giao_dien_gian_luoc_cua_trang_chu_Facebook.css" beforeDir="false" afterPath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_giao_dien_gian_luoc_cua_trang_chu_Facebook/Tao_giao_dien_gian_luoc_cua_trang_chu_Facebook.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_giao_dien_gian_luoc_cua_trang_chu_Facebook/Tao_giao_dien_gian_luoc_cua_trang_chu_Facebook.html" beforeDir="false" afterPath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_giao_dien_gian_luoc_cua_trang_chu_Facebook/Tao_giao_dien_gian_luoc_cua_trang_chu_Facebook.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_layout_voi_RWD/Tao_layout_voi_RWD.css" beforeDir="false" afterPath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_layout_voi_RWD/Tao_layout_voi_RWD.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_layout_voi_RWD/Tao_layout_voi_RWD.html" beforeDir="false" afterPath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_layout_voi_RWD/Tao_layout_voi_RWD.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_layout_voi_cac_the_HTML5_va_CSS/Tao_layout_voi_cac_the_HTML5_va_CSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_layout_voi_cac_the_HTML5_va_CSS/Tao_layout_voi_cac_the_HTML5_va_CSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_layout_voi_cac_the_HTML5_va_CSS/Tao_layout_voi_cac_the_HTML5_va_CSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/bai_tap/Tao_layout_voi_cac_the_HTML5_va_CSS/Tao_layout_voi_cac_the_HTML5_va_CSS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/thuc_hanh/Su_dung_Box_Model.html" beforeDir="false" afterPath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/thuc_hanh/Su_dung_Box_Model.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/thuc_hanh/Tao_menu_doc/Tao_menu_doc.css" beforeDir="false" afterPath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/thuc_hanh/Tao_menu_doc/Tao_menu_doc.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/thuc_hanh/Tao_menu_ngang/Tao_menu_ngang.css" beforeDir="false" afterPath="$PROJECT_DIR$/b07.Thiet_ke_bo_cuc_trang_Web/thuc_hanh/Tao_menu_ngang/Tao_menu_ngang.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b08.Bootstrap_co_ban/bai_tap/Tao_gallery_don_gian_su_dung_Bootstrap/Tao_gallery_don_gian_su_dung_Bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/b08.Bootstrap_co_ban/bai_tap/Tao_gallery_don_gian_su_dung_Bootstrap/Tao_gallery_don_gian_su_dung_Bootstrap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b08.Bootstrap_co_ban/bai_tap/Xay_dung_Landing_Page/Xay_dung_Landing_Page.css" beforeDir="false" afterPath="$PROJECT_DIR$/b08.Bootstrap_co_ban/bai_tap/Xay_dung_Landing_Page/Xay_dung_Landing_Page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b08.Bootstrap_co_ban/bai_tap/Xay_dung_Landing_Page/Xay_dung_Landing_Page.html" beforeDir="false" afterPath="$PROJECT_DIR$/b08.Bootstrap_co_ban/bai_tap/Xay_dung_Landing_Page/Xay_dung_Landing_Page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b08.Bootstrap_co_ban/thuc_hanh/Su_dung_Bootstrap_xay_dung_form_login.html" beforeDir="false" afterPath="$PROJECT_DIR$/b08.Bootstrap_co_ban/thuc_hanh/Su_dung_Bootstrap_xay_dung_form_login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/artifacts/server_time_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/artifacts/server_time_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/b09_Tong_quan_ung_dung_Web.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/java/com/example/server_time/HelloServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/java/com/example/server_time/b09_Tong_quan_ung_dung_Web/bai_tap/ProductServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/java/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/ConverterServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/java/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/ServletTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/java/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/Servlet_Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/java/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/TranslationServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/classes/com/example/server_time/HelloServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/classes/com/example/server_time/b09_Tong_quan_ung_dung_Web/bai_tap/ProductServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/classes/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/ConverterServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/classes/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/ServletTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/classes/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/Servlet_Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/classes/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/TranslationServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT/WEB-INF/classes/com/example/server_time/HelloServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT/WEB-INF/classes/com/example/server_time/b09_Tong_quan_ung_dung_Web/bai_tap/ProductServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT/WEB-INF/classes/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/ConverterServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT/WEB-INF/classes/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/ServletTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT/WEB-INF/classes/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/Servlet_Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT/WEB-INF/classes/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/TranslationServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.esm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/js/bootstrap.min.js.map" afterDir="false" />
-    </list>
+    <list default="true" id="4f337988-48e3-4a08-aa06-9af440de299b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,76 +10,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="289QN6QwsIDo2xNodbAkgThUUF2" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
+  <component name="ProjectId" id="28C3hgE0OnE9JdLR0hJM0LEjUDs" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Module 1/B5.HTML-Form-&amp;-Table/Thuc-hanh/simpleform.html" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tomcat 9.0.62" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.62" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment>
-        <artifact name="ServletDemo:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/ServletDemo_war_exploded" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings />
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="ServletDemo:war exploded" />
-        </option>
-      </method>
-    </configuration>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
-  <component name="SvnConfiguration">
-    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c790a65-522f-4669-84f0-d11ea884f887" name="Default Changelist" comment="" />
-      <created>1650626279987</created>
+      <created>1650706861497</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650626279987</updated>
-      <workItem from="1650626284583" duration="68000" />
-      <workItem from="1650689135803" duration="280000" />
+      <updated>1650706861497</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1650689197010">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1650689197010" />
   </component>
 </project>

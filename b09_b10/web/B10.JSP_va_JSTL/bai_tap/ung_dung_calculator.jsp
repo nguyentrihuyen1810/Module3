@@ -10,11 +10,11 @@
         <legend>Calculator</legend>
         <table>
             <tr>
-                <td>First operand: </td>
+                <td>First operand:</td>
                 <td><input name="first-operand" type="text"/></td>
             </tr>
             <tr>
-                <td>Operator: </td>
+                <td>Operator:</td>
                 <td>
                     <select name="operator">
                         <option value="+">Addition</option>
@@ -25,7 +25,7 @@
                 </td>
             </tr>
             <tr>
-                <td>Second operand: </td>
+                <td>Second operand:</td>
                 <td><input name="second-operand" type="text"/></td>
             </tr>
             <tr>
