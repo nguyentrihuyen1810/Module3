@@ -17,19 +17,19 @@
 </p>
 <table>
     <tr>
-        <td>Id: </td>
+        <td>Id:</td>
         <td>${requestScope["product"].getId()}</td>
     </tr>
     <tr>
-        <td>Name: </td>
+        <td>Name:</td>
         <td>${requestScope["name"].getName()}</td>
     </tr>
     <tr>
-        <td>Price: </td>
+        <td>Price:</td>
         <td>${requestScope["product"].getPrice()}</td>
     </tr>
     <tr>
-        <td>Quantity: </td>
+        <td>Quantity:</td>
         <td>${requestScope["product"].getQuantity()}</td>
     </tr>
 </table>

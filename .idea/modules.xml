@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/b11.MVC_Model.iml" filepath="$PROJECT_DIR$/b11.MVC_Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B12. JDBC-CRUD.iml" filepath="$PROJECT_DIR$/B12. JDBC-CRUD.iml" />
     </modules>
   </component>
 </project>

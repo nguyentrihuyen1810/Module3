@@ -11,8 +11,8 @@
 <head>
     <title>Create new </title>customer
     <style>
-        .message{
-            color:green;
+        .message {
+            color: green;
         }
     </style>
 </head>
@@ -31,15 +31,15 @@
         <legend>Customer information</legend>
         <table>
             <tr>
-                <td>Name: </td>
+                <td>Name:</td>
                 <td><input type="text" name="name" id="name"></td>
             </tr>
             <tr>
-                <td>Email: </td>
+                <td>Email:</td>
                 <td><input type="text" name="email" id="email"></td>
             </tr>
             <tr>
-                <td>Address: </td>
+                <td>Address:</td>
                 <td><input type="text" name="address" id="address"></td>
             </tr>
             <tr>

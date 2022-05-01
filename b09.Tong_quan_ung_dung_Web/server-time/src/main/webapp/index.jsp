@@ -71,21 +71,21 @@
 <html>
 <head>
     <title>Ung dung Product Discount</title>
-    <link rel="stylesheet" type = "text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-<form method = "post" action = "/product">
+<form method="post" action="/product">
     <h1>Product Discount</h1>
     <div>
         <label>Product Description: </label>
-        <input type = "text" name = "product">
+        <input type="text" name="product">
     </div>
     <div>
         <label>List Price: </label>
-        <input type = "text" name = "price">
+        <input type="text" name="price">
     </div>
     <div>
         <label>Discount Percent: </label>
-        <input type = "text" name = "percent">
+        <input type="text" name="percent">
     </div>
     <button>Calculate</button>
 </form>

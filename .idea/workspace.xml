@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f337988-48e3-4a08-aa06-9af440de299b" name="Default Changelist" comment="">
+    <list default="true" id="bca4321e-a6c1-423f-9a14-302eb3bb77e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Demo/.idea/artifacts/demo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/.idea/artifacts/demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/Product/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/Product/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/Product/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/Product/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/webapp/product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/webapp/product/product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b12.JDBC/src/main/java/com/example/JDBC/thuc_hanh/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b12.JDBC/src/main/java/com/example/JDBC/thuc_hanh/dao/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b12.JDBC/src/main/java/com/example/JDBC/thuc_hanh/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b12.JDBC/src/main/java/com/example/JDBC/thuc_hanh/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ServletDemo_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ServletDemo_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/.idea/artifacts/ServletDemo_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/.idea/artifacts/ServletDemo_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/controller/StudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/service/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/main/java/com/example/ServletDemo/service/StudentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/main/webapp/student/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/src/main/webapp/student/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/main/webapp/student/student.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/src/main/webapp/student/student.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/target/ServletDemo-1.0-SNAPSHOT/student/student.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/target/ServletDemo-1.0-SNAPSHOT/student/student.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/target/classes/com/example/ServletDemo/controller/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/target/classes/com/example/ServletDemo/model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/target/classes/com/example/ServletDemo/service/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/target/classes/com/example/ServletDemo/service/StudentServiceImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Module3/Servlet1/src/B10/JSP_va_JSTL/bai_tap/Ung_dung_Calculator/model/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/Servlet1/src/B10/JSP_va_JSTL/bai_tap/Ung_dung_Calculator/model/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module3/Servlet1/web/B10.JSP_va_JSTL/bai_tap/hien_thi_danh_sach_khach_hang/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/Servlet1/web/B10.JSP_va_JSTL/bai_tap/hien_thi_danh_sach_khach_hang/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module3/Servlet1/web/B10.JSP_va_JSTL/bai_tap/ung_dung_calculator.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/Servlet1/web/B10.JSP_va_JSTL/bai_tap/ung_dung_calculator.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/java/com/example/server_time/b09_Tong_quan_ung_dung_Web/bai_tap/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/java/com/example/server_time/b09_Tong_quan_ung_dung_Web/bai_tap/ProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/java/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/TranslationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/java/com/example/server_time/b09_Tong_quan_ung_dung_Web/thuc_hanh/TranslationServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b09.Tong_quan_ung_dung_Web/server-time/target/server-time-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b10.JSP_JSTL/src/B10/JSP_va_JSTL/bai_tap/Ung_dung_Calculator/model/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/b10.JSP_JSTL/src/B10/JSP_va_JSTL/bai_tap/Ung_dung_Calculator/model/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b10.JSP_JSTL/web/B10.JSP_va_JSTL/bai_tap/hien_thi_danh_sach_khach_hang/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b10.JSP_JSTL/web/B10.JSP_va_JSTL/bai_tap/hien_thi_danh_sach_khach_hang/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b10.JSP_JSTL/web/B10.JSP_va_JSTL/bai_tap/ung_dung_calculator.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b10.JSP_JSTL/web/B10.JSP_va_JSTL/bai_tap/ung_dung_calculator.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/.idea/artifacts/MVC_model_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/b11/.idea/artifacts/MVC_model_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/MVC_model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/b11/MVC_model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/b11/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/java/com/example/MVCmodel/bai_tap/controller/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/java/com/example/MVCmodel/bai_tap/controller/ProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/java/com/example/MVCmodel/bai_tap/service/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/java/com/example/MVCmodel/bai_tap/service/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/java/com/example/MVCmodel/thuc_hanh/controller/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/java/com/example/MVCmodel/thuc_hanh/controller/CustomerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/java/com/example/MVCmodel/thuc_hanh/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/java/com/example/MVCmodel/thuc_hanh/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/java/com/example/MVCmodel/thuc_hanh/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/java/com/example/MVCmodel/thuc_hanh/service/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/webapp/customer/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/webapp/customer/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/webapp/customer/delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/webapp/customer/delete.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/webapp/customer/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/webapp/customer/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/webapp/customer/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/webapp/customer/view.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/webapp/product/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/webapp/product/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/webapp/product/delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/webapp/product/delete.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/webapp/product/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/webapp/product/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b11/src/main/webapp/product/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/b11/src/main/webapp/product/view.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +87,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="28C3hgE0OnE9JdLR0hJM0LEjUDs" />
+  <component name="ProjectId" id="28KUa5eZsVMz7K7D8sb20VJR0PU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,21 +99,112 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Module3/b11.MVC_Model" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Module 1" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="B12. JDBC-CRUD" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="B12. JDBC-CRUD" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.62" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.62" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="B12. JDBC-CRUD:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/B12__JDBC_CRUD_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="B12. JDBC-CRUD:war exploded" />
+        </option>
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4f337988-48e3-4a08-aa06-9af440de299b" name="Default Changelist" comment="" />
-      <created>1650706861497</created>
+      <changelist id="bca4321e-a6c1-423f-9a14-302eb3bb77e1" name="Default Changelist" comment="" />
+      <created>1650964833298</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650706861497</updated>
-      <workItem from="1650706866056" duration="429000" />
+      <updated>1650964833298</updated>
+      <workItem from="1650964837791" duration="95000" />
+      <workItem from="1651020264445" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1651020283909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1651020283909" />
   </component>
 </project>

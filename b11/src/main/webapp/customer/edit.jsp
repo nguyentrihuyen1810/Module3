@@ -25,16 +25,17 @@
         <legend>Customer information</legend>
         <table>
             <tr>
-                <td>Name: </td>
+                <td>Name:</td>
                 <td><input type="text" name="name" id="name" value="${requestScope["customer"].getName()}"></td>
             </tr>
             <tr>
-                <td>Email: </td>
+                <td>Email:</td>
                 <td><input type="text" name="email" id="email" value="${requestScope["customer"].getEmail()}"></td>
             </tr>
             <tr>
-                <td>Address: </td>
-                <td><input type="text" name="address" id="address" value="${requestScope["customer"].getAddress()}"></td>
+                <td>Address:</td>
+                <td><input type="text" name="address" id="address" value="${requestScope["customer"].getAddress()}">
+                </td>
             </tr>
             <tr>
                 <td></td>

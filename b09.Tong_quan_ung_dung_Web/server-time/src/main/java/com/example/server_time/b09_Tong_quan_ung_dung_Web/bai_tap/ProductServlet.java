@@ -34,10 +34,6 @@ public class ProductServlet extends HttpServlet {
 }
 
 
-
-
-
-
 //    Trang kết quả sẽ hiển thị các thông tin ngươờ dùng nhập vào, kèm theo kết quả tính toán:
 //
 //        Discount Amount: Lượng chiết khấu
